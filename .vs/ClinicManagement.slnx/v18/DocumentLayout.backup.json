@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Saves\\VS Source\\ClinicManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\saves\\vs source\\clinicmanagement\\bll\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\saves\\vs source\\clinicmanagement\\dal\\clinicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\clinicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9CA105-E01A-3932-C7B8-2E025C0D5F97}|ClinicManagement\\GUI.csproj|d:\\saves\\vs source\\clinicmanagement\\clinicmanagement\\guiform\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9CA105-E01A-3932-C7B8-2E025C0D5F97}|ClinicManagement\\GUI.csproj|solutionrelative:clinicmanagement\\guiform\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\saves\\vs source\\clinicmanagement\\bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\saves\\vs source\\clinicmanagement\\bll\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|d:\\saves\\vs source\\clinicmanagement\\entities\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|d:\\saves\\vs source\\clinicmanagement\\entities\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9CA105-E01A-3932-C7B8-2E025C0D5F97}|ClinicManagement\\GUI.csproj|D:\\Saves\\VS Source\\ClinicManagement\\clinicmanagement\\guiform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B9CA105-E01A-3932-C7B8-2E025C0D5F97}|ClinicManagement\\GUI.csproj|solutionrelative:clinicmanagement\\guiform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9CA105-E01A-3932-C7B8-2E025C0D5F97}|ClinicManagement\\GUI.csproj|d:\\saves\\vs source\\clinicmanagement\\clinicmanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B9CA105-E01A-3932-C7B8-2E025C0D5F97}|ClinicManagement\\GUI.csproj|solutionrelative:clinicmanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9CA105-E01A-3932-C7B8-2E025C0D5F97}|ClinicManagement\\GUI.csproj|d:\\saves\\vs source\\clinicmanagement\\clinicmanagement\\guiform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9CA105-E01A-3932-C7B8-2E025C0D5F97}|ClinicManagement\\GUI.csproj|solutionrelative:clinicmanagement\\guiform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 954,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClinicDbContext.cs",
+              "DocumentMoniker": "D:\\Saves\\VS Source\\ClinicManagement\\DAL\\ClinicDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ClinicDbContext.cs",
+              "ToolTip": "D:\\Saves\\VS Source\\ClinicManagement\\DAL\\ClinicDbContext.cs",
+              "RelativeToolTip": "DAL\\ClinicDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T15:24:04.467Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmUsers.cs",
+              "DocumentMoniker": "D:\\Saves\\VS Source\\ClinicManagement\\ClinicManagement\\GUIForm\\frmUsers.cs",
+              "RelativeDocumentMoniker": "ClinicManagement\\GUIForm\\frmUsers.cs",
+              "ToolTip": "D:\\Saves\\VS Source\\ClinicManagement\\ClinicManagement\\GUIForm\\frmUsers.cs",
+              "RelativeToolTip": "ClinicManagement\\GUIForm\\frmUsers.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAuwDoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:24:42.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\Saves\\VS Source\\ClinicManagement\\BLL\\PatientService.cs",
+              "RelativeDocumentMoniker": "BLL\\PatientService.cs",
+              "ToolTip": "D:\\Saves\\VS Source\\ClinicManagement\\BLL\\PatientService.cs",
+              "RelativeToolTip": "BLL\\PatientService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T23:56:46.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "D:\\Saves\\VS Source\\ClinicManagement\\BLL\\DoctorService.cs",
+              "RelativeDocumentMoniker": "BLL\\DoctorService.cs",
+              "ToolTip": "D:\\Saves\\VS Source\\ClinicManagement\\BLL\\DoctorService.cs",
+              "RelativeToolTip": "BLL\\DoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T00:05:41.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Saves\\VS Source\\ClinicManagement\\ClinicManagement\\App.config",
+              "RelativeDocumentMoniker": "ClinicManagement\\App.config",
+              "ToolTip": "D:\\Saves\\VS Source\\ClinicManagement\\ClinicManagement\\App.config",
+              "RelativeToolTip": "ClinicManagement\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-10T16:39:59.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Saves\\VS Source\\ClinicManagement\\ClinicManagement\\GUIForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "ClinicManagement\\GUIForm\\MainForm.cs",
+              "ToolTip": "D:\\Saves\\VS Source\\ClinicManagement\\ClinicManagement\\GUIForm\\MainForm.cs",
+              "RelativeToolTip": "ClinicManagement\\GUIForm\\MainForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:30:33.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Saves\\VS Source\\ClinicManagement\\ClinicManagement\\GUIForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "ClinicManagement\\GUIForm\\MainForm.cs",
+              "ToolTip": "D:\\Saves\\VS Source\\ClinicManagement\\ClinicManagement\\GUIForm\\MainForm.cs [Design]",
+              "RelativeToolTip": "ClinicManagement\\GUIForm\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:30:25.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "D:\\Saves\\VS Source\\ClinicManagement\\Entities\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "Entities\\MedicalRecord.cs",
+              "ToolTip": "D:\\Saves\\VS Source\\ClinicManagement\\Entities\\MedicalRecord.cs",
+              "RelativeToolTip": "Entities\\MedicalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:26:14.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "History.cs",
+              "DocumentMoniker": "D:\\Saves\\VS Source\\ClinicManagement\\Entities\\History.cs",
+              "RelativeDocumentMoniker": "Entities\\History.cs",
+              "ToolTip": "D:\\Saves\\VS Source\\ClinicManagement\\Entities\\History.cs",
+              "RelativeToolTip": "Entities\\History.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:26:07.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Saves\\VS Source\\ClinicManagement\\BLL\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\UserService.cs",
+              "ToolTip": "D:\\Saves\\VS Source\\ClinicManagement\\BLL\\UserService.cs",
+              "RelativeToolTip": "BLL\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T01:34:21.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 20,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

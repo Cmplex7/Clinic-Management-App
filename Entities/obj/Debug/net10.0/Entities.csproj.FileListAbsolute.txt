@@ -1,0 +1,12 @@
+D:\Saves\VS Source\ClinicManagement\Entities\bin\Debug\net10.0\Entities.deps.json
+D:\Saves\VS Source\ClinicManagement\Entities\bin\Debug\net10.0\Entities.dll
+D:\Saves\VS Source\ClinicManagement\Entities\bin\Debug\net10.0\Entities.pdb
+D:\Saves\VS Source\ClinicManagement\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saves\VS Source\ClinicManagement\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+D:\Saves\VS Source\ClinicManagement\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+D:\Saves\VS Source\ClinicManagement\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+D:\Saves\VS Source\ClinicManagement\Entities\obj\Debug\net10.0\Entities.dll
+D:\Saves\VS Source\ClinicManagement\Entities\obj\Debug\net10.0\refint\Entities.dll
+D:\Saves\VS Source\ClinicManagement\Entities\obj\Debug\net10.0\Entities.pdb
+D:\Saves\VS Source\ClinicManagement\Entities\obj\Debug\net10.0\ref\Entities.dll
+D:\Saves\VS Source\ClinicManagement\Entities\obj\Debug\net10.0\Entities.csproj.AssemblyReference.cache

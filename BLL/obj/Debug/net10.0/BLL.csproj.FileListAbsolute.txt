@@ -1,0 +1,17 @@
+D:\Saves\VS Source\ClinicManagement\BLL\bin\Debug\net10.0\BLL.deps.json
+D:\Saves\VS Source\ClinicManagement\BLL\bin\Debug\net10.0\BLL.dll
+D:\Saves\VS Source\ClinicManagement\BLL\bin\Debug\net10.0\BLL.pdb
+D:\Saves\VS Source\ClinicManagement\BLL\obj\Debug\net10.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saves\VS Source\ClinicManagement\BLL\obj\Debug\net10.0\BLL.AssemblyInfoInputs.cache
+D:\Saves\VS Source\ClinicManagement\BLL\obj\Debug\net10.0\BLL.AssemblyInfo.cs
+D:\Saves\VS Source\ClinicManagement\BLL\obj\Debug\net10.0\BLL.csproj.CoreCompileInputs.cache
+D:\Saves\VS Source\ClinicManagement\BLL\obj\Debug\net10.0\BLL.dll
+D:\Saves\VS Source\ClinicManagement\BLL\obj\Debug\net10.0\refint\BLL.dll
+D:\Saves\VS Source\ClinicManagement\BLL\obj\Debug\net10.0\BLL.pdb
+D:\Saves\VS Source\ClinicManagement\BLL\obj\Debug\net10.0\ref\BLL.dll
+D:\Saves\VS Source\ClinicManagement\BLL\bin\Debug\net10.0\DAL.dll
+D:\Saves\VS Source\ClinicManagement\BLL\bin\Debug\net10.0\Entities.dll
+D:\Saves\VS Source\ClinicManagement\BLL\bin\Debug\net10.0\DAL.pdb
+D:\Saves\VS Source\ClinicManagement\BLL\bin\Debug\net10.0\Entities.pdb
+D:\Saves\VS Source\ClinicManagement\BLL\obj\Debug\net10.0\BLL.csproj.AssemblyReference.cache
+D:\Saves\VS Source\ClinicManagement\BLL\obj\Debug\net10.0\BLL.csproj.Up2Date

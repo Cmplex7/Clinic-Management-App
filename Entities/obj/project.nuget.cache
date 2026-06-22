@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NLtr/tyZh1g=",
+  "success": true,
+  "projectFilePath": "D:\\Saves\\VS Source\\ClinicManagement\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ttd12\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.1\\system.configuration.configurationmanager.10.0.1.nupkg.sha512",
+    "C:\\Users\\ttd12\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.1\\system.diagnostics.eventlog.10.0.1.nupkg.sha512",
+    "C:\\Users\\ttd12\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.1\\system.security.cryptography.protecteddata.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
